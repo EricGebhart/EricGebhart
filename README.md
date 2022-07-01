@@ -4,21 +4,34 @@
 
 
 I´ve been programming a very long time now. More than 40 years. 
-A great amount of the code I have written is proprietary and not viewable.
-I have written many tools, debuggers, and development tools, etc.
-I have designed and built databases, frameworks and the large complex systems 
-that need them. At SAS I was responsible for many 100´s of 1000´s of lines of code.
-My strongest skills are Architecture and systems design. I´m good at the big picture.
-I´ve done all sorts of databases, object oriented programming, functional programming.
-I´ve taught programming in various languages including my own.
-The last decade I have been programming in functional languages like Clojure
-which I love, and Haskell, mostly for my Xmonad configuration.
-Recently I wrote the SPR language on top of python as an answer to a problem
-I was solving. The end result is a quite nice functional language, which leverages
-python libraries directly and simply.
-I´ve written a fair amount of lisp, and lisp languages which I find fascinating
-to create. I´ve been an Arch linux, Xmonad user for many years and I´ve written
-a lot of emacs lisp. Emacs is the best vi emulator anywhere.
+I know many languages with C being the most dominant in all of that time.
+In that time I was an entrepreneur, Unix tool master, database designer
+and admin, systems architect, framework creator, development system
+builder, GUI builder, and on and on. As a contract programmer I have 
+helped to build many large enterprise level applications and services
+across many domains, health care, Insurance, manufacturing, distribution,
+finance, power, telephony, publishing, geology, geography, statistics,
+marketing.
+
+I was more than fullstack in a time when that term did not yet exist. I
+spent 17 years at SAS where I was responsible for many 100´s of 1000´s
+of lines of code. My strongest skills are Architecture and systems
+design. I´m good at the big picture. I´ve done all sorts of databases,
+sql, no sql, object oriented programming and functional programming.
+
+I´ve taught programming in various languages including my own. I am
+an accomplished public speaker. The last decade I have been programming
+in functional languages like Clojure which I love, and Haskell, mostly
+for my Xmonad configuration. Recently I wrote the SPR language on top of
+python as an answer to a problem I was solving for a client. I let the
+language evolve naturally, only adding to it as necessary, and only if the
+addition was simple. The end result is a quite nice self documenting 
+functional language with less syntax than lisp which leverages
+python libraries directly and simply. I´ve written a fair amount of lisp,
+and lisp languages which I find fascinating to create. Clojure and it´s
+spin offs are by far my favorite.
+
+I´ve been an Arch linux, Xmonad user for many years and I´ve written a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 
 Note: My activity in 2021 was quite low because I had very poor vision for most of the year from cataracts which have now been corrected.
 
@@ -26,7 +39,7 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
 
 ### Some projects that might be insightful here.
 - **[MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart)** - It uses macros extensively and is unlike any other user space in QMK. The readme is extensive.
-- **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses make extensively, and contains some utilities. 
+- **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses _Make_ extensively. 
 - **[Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
 - **[SPR - Simple Process Repl](https://github.com/EricGebhart/Simple_Process_REPL)** - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
 - **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [~90% complete] - SPR has been too fun.
@@ -37,9 +50,9 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A Clojure datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A Clojure file-access library to which creates a consistent API for various types of files. 
 - **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** After _Nathan Marz_´s Big data, Lambda Architecture. - This is the core layer above hadoop to manage pails, data partitioning, and tapping into data with Cascalog. After _Nathan Marz_´s Lambda Architecture.
-- **[Pail-Schema-Example](https://github.com/EricGebhart/Pail-Schema-Example/)** - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about. See my [post Here.](https://www.ericgebhart.com/blog/clojure/2014-03-06-Using-prismatic-schema-with-fressian-pail-and-cascalog/) And another [post here](https://www.ericgebhart.com/blog/clojure/2014-01-23-Using-pail-with-a-graph-schema/)
+- **[Pail-Schema-Example](https://github.com/EricGebhart/Pail-Schema-Example/)** - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about. See my __[post Here.](https://www.ericgebhart.com/blog/clojure/2014-03-06-Using-prismatic-schema-with-fressian-pail-and-cascalog/)__ And another __[post here.](https://www.ericgebhart.com/blog/clojure/2014-01-23-Using-pail-with-a-graph-schema/)__
 - **[Word search](https://github.com/EricGebhart/word-search/)** - Something I wrote from my own motivations. A meta data collector for words. I have plans for it.
-- **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** - I wanted a nice one, and I wanted to learn clojure/spec.
+- **[bike gear calculator](https://github.com/EricGebhart/bike-gear-calc/)** - I wanted a nice one, and I wanted to learn clojure/spec.
 - **[flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher)** - A code test, turned into a design test. It won a job for me and solved their troubles.
 - **[ODS Markup: Tagsets by Example](https://github.com/EricGebhart/Tagsets-by-example)** - A book I wrote about ODS Markup, never published, for forgotten reasons.
 - **[SAS-Papers](https://github.com/EricGebhart/SAS-Papers)** - My papers which will show my writing and give some insight into SAS ODS for which I was a significant contributor.

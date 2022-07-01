@@ -29,11 +29,11 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
  * **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses make extensively, and contains some utilities. 
  * **[Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
 - **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl)** - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
-- **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [incomplete] - SPR has been too fun.
-- **[My Xmonad](https://github.com/EricGebhart/xmonad-setup/)** My Xmonad window manager. , A fairly extensive custom configuration/executable.
+- **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [~90% complete] - SPR has been too fun.
+- **[My Xmonad](https://github.com/EricGebhart/xmonad-setup/)** window manager. A fairly extensive custom configuration/executable.
 - **[My Emacs Setup](https://github.com/EricGebhart/emacs-setup/)** - It´s home grown, so shows my way of organizing emacs.
- * **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** After _Nathan Marz_ Big data, Lambda Architecture. - This is the core layer above hadoop to manage pails, data partitioning, tapping into with Cascalog . 
-- **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about.
+- **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** After _Nathan Marz_ Big data, Lambda Architecture. - This is the core layer above hadoop to manage pails, data partitioning, and tapping into data with Cascalog. 
+- **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about. See my [Post Here.](https://www.ericgebhart.com/blog/clojure/2014-03-06-Using-prismatic-schema-with-fressian-pail-and-cascalog/) And another [post here](https://www.ericgebhart.com/blog/clojure/2014-01-23-Using-pail-with-a-graph-schema/)
 - **[SAS-Papers](https://github.com/EricGebhart/SAS-Papers)** - My papers which will show my writing and give some insight into SAS ODS for which I was a significant contributor.
 - **[Word search](https://github.com/EricGebhart/word-search/)** - Something I wrote from my own motivations. A meta data collector for words. I have plans for it.
 - **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** - I wanted a nice one, and I wanted to learn clojure/spec.
@@ -68,7 +68,7 @@ but there it is. I rewrote this in SPR, that one is nicer.
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
-** Dfs datastores, These libraries were inspired by _Nathan Marz_, his book _Big Data_ and the Lambda Architecture. Pre Clojure/Schema.
+** Dfs datastores, These libraries were inspired by _Nathan Marz_, his book _Big Data_ and the Lambda Architecture. Pre Clojure/Schema.**
 - **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** A library which combines all of the dfs libraries into one, for managing dfs datastores with cascalog on hadoop.
   **The folowing are all now embodied in dfs-clj. **
   - **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.

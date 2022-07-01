@@ -69,7 +69,7 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
 - **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** A library which combines all of the dfs libraries into one, for managing dfs datastores for cascalog in hadoop..
 
-##### The folowing are all embodied in dfs-clj, but existed separately before it´s existence.
+##### The folowing are all now embodied in dfs-clj. 
 - **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.
 - **[pail-schema](https://github.com/EricGebhart/pail-schema/)** Dfs-datastores Pail infrastructure using Prismatic Schema and Fressian.
 - **[clj-pail-tap](https://github.com/EricGebhart/clj-pail-tap/)** Extension library to enable easier tapping of pails.

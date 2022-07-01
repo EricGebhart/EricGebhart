@@ -38,8 +38,8 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
 <br/>
 
 ### Some projects that might be insightful here.
-- **[MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart)** - It uses macros extensively and is unlike any other user space in QMK. The readme is extensive.
-- **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses _Make_ extensively. 
+- **[MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart)** - It uses macros extensively and is unlike any other user space in QMK. The readme is verbose.
+- **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses _Make_ to create a nice installation process. 
 - **[Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
 - **[SPR - Simple Process Repl](https://github.com/EricGebhart/Simple_Process_REPL)** - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
 - **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [~90% complete] - SPR has been too fun.

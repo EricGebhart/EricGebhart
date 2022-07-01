@@ -68,9 +68,10 @@ but there it is. I rewrote this in SPR, that one is nicer.
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
-** Dfs datastores, These libraries were inspired by _Nathan Marz_, his book _Big Data_ and the Lambda Architecture. Pre Clojure/Schema.**
+  ----
+  **Dfs datastores, These libraries were inspired by _Nathan Marz_, his book _Big Data_ and the Lambda Architecture. Pre Clojure/Schema.**
 - **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** A library which combines all of the dfs libraries into one, for managing dfs datastores with cascalog on hadoop.
-  **The folowing are all now embodied in dfs-clj. **
+  **The following are all now embodied in dfs-clj. **
   - **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.
   - **[pail-schema](https://github.com/EricGebhart/pail-schema/)** Dfs-datastores Pail infrastructure using Prismatic Schema and Fressian.
   - **[clj-pail-tap](https://github.com/EricGebhart/clj-pail-tap/)** Extension library to enable easier tapping of pails.

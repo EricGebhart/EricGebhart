@@ -49,7 +49,7 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A Clojure datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A Clojure file-access library to which creates a consistent API for various types of files. 
-- **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** After _Nathan Marz_´s Big data, Lambda Architecture. - This is the core layer above hadoop to manage pails, data partitioning, and tapping into data with Cascalog. After _Nathan Marz_´s Lambda Architecture.
+- **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** - This is the core layer above hadoop to manage pails, data partitioning, and tapping into data with Cascalog. After _Nathan Marz_´s Lambda Architecture.
 - **[Pail-Schema-Example](https://github.com/EricGebhart/Pail-Schema-Example/)** - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about. See my __[post Here.](https://www.ericgebhart.com/blog/clojure/2014-03-06-Using-prismatic-schema-with-fressian-pail-and-cascalog/)__ And another __[post here.](https://www.ericgebhart.com/blog/clojure/2014-01-23-Using-pail-with-a-graph-schema/)__
 - **[Word search](https://github.com/EricGebhart/word-search/)** - Something I wrote from my own motivations. A meta data collector for words. I have plans for it.
 - **[bike gear calculator](https://github.com/EricGebhart/bike-gear-calc/)** - I wanted a nice one, and I wanted to learn clojure/spec.
@@ -82,7 +82,8 @@ but there it is. I rewrote this in SPR, that one is nicer.
 - **[Word search](https://github.com/EricGebhart/word-search/)** Collect meta data and create conjugaison trees from words in wiktionary.
 - **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** A bike gear calculator for fixed gear, internal gear and deraileur gear bikes which uses Schema.
 - **[bike gear calc UI](https://github.com/EricGebhart/bgc-ui/)** The beginning of a clojurescript/ReFrame UI for the bike gear calculator.
-** Libraries that I created and used within the Applications I created for Yeti Data.**
+
+#### Libraries that I created and used within the Applications I created for Yeti Data.
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 

@@ -19,30 +19,36 @@ python libraries directly and simply.
 I´ve written a fair amount of lisp, and lisp languages which I find fascinating
 to create. I´ve been an Arch linux, Xmonad user for many years and I´ve written
 a lot of emacs lisp. Emacs is the best vi emulator anywhere.
+
 <br/>
 
-The projects that might be interesting here, are 
- * MyQMK - It uses macros extensively and is unlike any other user space in QMK.
- * Arch linux packages - This uses make extensively, and contains some utilities. 
+### The projects that might be interesting here, are 
+ * [MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart) - It uses macros extensively and is unlike any other user space in QMK.
+ * [Arch linux packages](https://github.com/EricGebhart/arch-pkgs/) - This uses make extensively, and contains some utilities. 
+ * [Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
  * Arch linux install - A nice script that automates Arch installs.
- * SPR - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
+- **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl) - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
+- **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [incomplete] - SPR has been too fun.
+- **[My Xmonad](https://github.com/EricGebhart/xmonad-setup/)** My Xmonad window manager. 
  * Xmonad - Haskell, It doesn´t change much these days.
- * My emacs setup - It´s home grown, so shows my way of organizing emacs.
- * dfs-clj - This is the core layer above hadoop to manage data partitioning and interfacing with Cascalog. The pail manager needs love, but the project died before that happened.
- * SAS papers and examples which will show my writing and give some insight into SAS ODS for which I was a significant contributor.
- * Word Search - Something I wrote from my own motivations. I have plans for it.
- * Bike Gear Calculator - I wanted a nice one, and I wanted to learn clojure/spec.
+- **[My Emacs Setup](https://github.com/EricGebhart/emacs-setup/) - It´s home grown, so shows my way of organizing emacs.
+ * [dfs-clj](https://github.com/EricGebhart/dfs-clj/) - This is the core layer above hadoop to manage pails, data partitioning, tapping into with Cascalog . 
+- **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/) - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about.
+- **[SAS-Papers](https://github.com/EricGebhart/SAS-Papers) - My papers which will show my writing and give some insight into SAS ODS for which I was a significant contributor.
+  * [Word search](https://github.com/EricGebhart/word-search/) - Something I wrote from my own motivations. A meta data collector for words. I have plans for it.
+  * [bike gear calc](https://github.com/EricGebhart/bike-gear-calc/) - I wanted a nice one, and I wanted to learn clojure/spec.
+  * [flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher) - A code test, turned into a design test. It won a job for me and solved their troubles.
 
 ### Programming, tools, utilities
 
 - **[MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart)** A sparse tree of my QMK keyboard user space and the keyboards I have keymaps for.
-- **[Emacs](https://github.com/EricGebhart/xmonad-setup/)** My old school, from scratch emacs setup. 
+- **[Emacs](https://github.com/EricGebhart/emacs-setup/)** My old school, from scratch emacs setup. 
 - **[Xmonad](https://github.com/EricGebhart/xmonad-setup/)** My Xmonad window manager. 
 - **[Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
 - **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** My Arch linux Meta packages, as well as a fair bit of code. 
 - **[Onboard keyboards](https://github.com/EricGebhart/onboard-keyboards/)** Dvorak and Qwerty Ortho-linear keyboards for the Onboard on screen keyboard. 
 - **[view-attachment](https://github.com/EricGebhart/view-attachment/)** Mutt and OS X integration script, written many years ago. 
-- **[xmonad-log-applet](https://github.com/EricGebhart/xmonad-log-applet/)** Getting Xmonad to talk over DBus to a toolbar. 
+- **[xmonad-log-applet](https://github.com/EricGebhart/xmonad-log-applet/)** Getting Xmonad to talk over DBus to a toolbar, an orphaned project which I brought back to life. 
 - **[Hunspell Dictionaries](https://github.com/EricGebhart/hunspell-dictionaries/)** A collection of Hunspell dictionaries for use with emacs, or whatever else. 
 - **[bc-extensions](https://github.com/EricGebhart/bc-extensions/)** A collection of extensions for use with the bc unix calculator.
 
@@ -50,14 +56,14 @@ The projects that might be interesting here, are
 - **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl)** A simple lisp like programming language and Application framework . 
     [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
 - **[PBR - Particle Board Repl](https://github.com/EricGebhart/particle-board-repl)**The precursor to SPR. A simple lisp like programming language and Application framework for working with Particle.io boards. 
-- **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp using a BNR grammar, works but falls short does not yet have closures or macros. 
+- **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure using a BNR grammar, It works but falls short of complete. It does not yet have closures or macros among other things.  
 
 ### Clojure projects
 - **[Word search](https://github.com/EricGebhart/word-search/)** Collect meta data and create conjugaison trees from words in wiktionary.
-- **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** A bike gear calculator for differnt types of bikes which uses Schema.
-- **[bike gear calc UI](https://github.com/EricGebhart/bgc-ui/)** The beginning of a clojurescript/ReFrame UI for the bike-gear-calculator.
+- **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** A bike gear calculator for fixed gear, internal gear and deraileur gear bikes which uses Schema.
+- **[bike gear calc UI](https://github.com/EricGebhart/bgc-ui/)** The beginning of a clojurescript/ReFrame UI for the bike gear calculator.
 
-##### These are libraries I created and used within the Applications I created for Yeti Data.
+##### These are libraries that I created and used within the Applications I created for Yeti Data.
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
@@ -66,7 +72,6 @@ The projects that might be interesting here, are
 ##### The folowing are all embodied in dfs-clj, but existed separately before it´s existence.
 - **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.
 - **[pail-schema](https://github.com/EricGebhart/pail-schema/)** Dfs-datastores Pail infrastructure using Prismatic Schema and Fressian.
-
 - **[clj-pail-tap](https://github.com/EricGebhart/clj-pail-tap/)** Extension library to enable easier tapping of pails.
 - **[Pail-Fressian](https://github.com/EricGebhart/Pail-Fressian/)** Pail structure, serializer and partitioners using Fressian.
 - **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** Example of using pail-schema to validate, coerce, and write data to a pail, then query it with cascalog.

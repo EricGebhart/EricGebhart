@@ -125,4 +125,4 @@ compromises, and staging of the implementation according to resource availabilit
 - **[QMK Firmware](https://github.com/EricGebhart/qmk_firmware/)** QMK firmware for custom keyboards.
 - **[Open SCAD clj](https://github.com/EricGebhart/scad-clj/)** A clojure wrapper for Open-scad so that scad can be programmed from clojure.
 - **[Golden Ratio](https://github.com/EricGebhart/golden-ratio.el)** Emacs package which automatically resizes windows in an intelligent way. 
-- **[cider](https://github.com/EricGebhart/cider)** . 
+- **[cider](https://github.com/EricGebhart/cider)** Clojure environment for emacs. 

@@ -20,24 +20,24 @@ I´ve written a fair amount of lisp, and lisp languages which I find fascinating
 to create. I´ve been an Arch linux, Xmonad user for many years and I´ve written
 a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 
+Note: My activity in 2021 was quite low because I had very poor vision for most of the year from cataracts which have now been corrected.
+
 <br/>
 
 ### The projects that might be interesting here, are 
- * [MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart) - It uses macros extensively and is unlike any other user space in QMK.
- * [Arch linux packages](https://github.com/EricGebhart/arch-pkgs/) - This uses make extensively, and contains some utilities. 
- * [Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
- * Arch linux install - A nice script that automates Arch installs.
-- **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl) - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
+ * **[MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart)** - It uses macros extensively and is unlike any other user space in QMK.
+ * **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses make extensively, and contains some utilities. 
+ * **[Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
+- **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl)** - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
 - **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [incomplete] - SPR has been too fun.
-- **[My Xmonad](https://github.com/EricGebhart/xmonad-setup/)** My Xmonad window manager. 
- * Xmonad - Haskell, It doesn´t change much these days.
-- **[My Emacs Setup](https://github.com/EricGebhart/emacs-setup/) - It´s home grown, so shows my way of organizing emacs.
- * [dfs-clj](https://github.com/EricGebhart/dfs-clj/) - This is the core layer above hadoop to manage pails, data partitioning, tapping into with Cascalog . 
-- **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/) - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about.
-- **[SAS-Papers](https://github.com/EricGebhart/SAS-Papers) - My papers which will show my writing and give some insight into SAS ODS for which I was a significant contributor.
-  * [Word search](https://github.com/EricGebhart/word-search/) - Something I wrote from my own motivations. A meta data collector for words. I have plans for it.
-  * [bike gear calc](https://github.com/EricGebhart/bike-gear-calc/) - I wanted a nice one, and I wanted to learn clojure/spec.
-  * [flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher) - A code test, turned into a design test. It won a job for me and solved their troubles.
+- **[My Xmonad](https://github.com/EricGebhart/xmonad-setup/)** My Xmonad window manager. , A fairly extensive custom configuration/executable.
+- **[My Emacs Setup](https://github.com/EricGebhart/emacs-setup/)** - It´s home grown, so shows my way of organizing emacs.
+ * **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** After _Nathan Marz_ Big data, Lambda Architecture. - This is the core layer above hadoop to manage pails, data partitioning, tapping into with Cascalog . 
+- **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** - This is an example project that shows how to use pails and schema with hadoop and cascalog. This is using dfs-clj before dfs-clj came about.
+- **[SAS-Papers](https://github.com/EricGebhart/SAS-Papers)** - My papers which will show my writing and give some insight into SAS ODS for which I was a significant contributor.
+- **[Word search](https://github.com/EricGebhart/word-search/)** - Something I wrote from my own motivations. A meta data collector for words. I have plans for it.
+- **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** - I wanted a nice one, and I wanted to learn clojure/spec.
+- **[flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher)** - A code test, turned into a design test. It won a job for me and solved their troubles.
 
 ### Programming, tools, utilities
 
@@ -55,8 +55,10 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 ### Python projects
 - **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl)** A simple lisp like programming language and Application framework . 
     [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
-- **[PBR - Particle Board Repl](https://github.com/EricGebhart/particle-board-repl)**The precursor to SPR. A simple lisp like programming language and Application framework for working with Particle.io boards. 
+- **[PBR - Particle Board Repl](https://github.com/EricGebhart/particle-board-repl)** The precursor to SPR. A simple lisp like programming language and Application framework for working with Particle.io boards. 
 - **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure using a BNR grammar, It works but falls short of complete. It does not yet have closures or macros among other things.  
+- **[Bar QR code](https://github.com/EricGebhart/barqrcode)** A simple program to print bar and qr codes. Written one afternoon according to the desires of a client. Not my style,
+but there it is. I rewrote this in SPR, that one is nicer.
 
 ### Clojure projects
 - **[Word search](https://github.com/EricGebhart/word-search/)** Collect meta data and create conjugaison trees from words in wiktionary.
@@ -66,7 +68,8 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
-- **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** A library which combines all of the dfs libraries into one, for managing dfs datastores for cascalog in hadoop..
+** Dfs datastores, These libraries were inspired by _Nathan Marz_, his book _Big Data_ and the Lambda Architecture. Pre Clojure/Schema.
+- **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** A library which combines all of the dfs libraries into one, for managing dfs datastores with cascalog on hadoop.
   **The folowing are all now embodied in dfs-clj. **
   - **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.
   - **[pail-schema](https://github.com/EricGebhart/pail-schema/)** Dfs-datastores Pail infrastructure using Prismatic Schema and Fressian.
@@ -81,12 +84,12 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 
 ### Code tests and explorations
 
-- **[Exercism](https://exercism.org/profiles/EricGebhart)** The exercises I´ve done over the years in Exercism. 
-- **[flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher)** A design for a simple http endpoint to give recent images from flickr. This solved the enterprise´s problems with scalability, image size and quality, while allowing fall backs to simpler choices according to resource availability. 
-- **[Suduko validator](https://github.com/EricGebhart/suduko-validator/)**Clojure: A calculator to validate a suduko board. A nicer solution to a code test I did in python. 
-- **[Poker](https://github.com/EricGebhart/poker/)**Clojure: A game of poker from the Asheville Coders League Day of Code challenge.  
-- **[Swapp](https://github.com/EricGebhart/swapp/)**Clojure: A simple example to understand clojurescript and figwheel.  
-- **[Product Inventory Server](https://github.com/EricGebhart/product-inventory/)** A product inventory server written with python and flask.  A code test.
+- **[Exercism](https://exercism.org/profiles/EricGebhart)** Clojure, Haskell, scheme, python. The exercises I´ve done over the years in Exercism. 
+- **[flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher)** Clojure/Design. A design for a simple http endpoint to give recent images from flickr. This solved the enterprise´s problems with scalability, image size and quality, while allowing fall backs to simpler choices according to resource availability. 
+- **[Suduko validator](https://github.com/EricGebhart/suduko-validator/)** Clojure: A calculator to validate a suduko board. A nicer solution to a code test I did in python. 
+- **[Poker](https://github.com/EricGebhart/poker/)** Clojure: A game of poker from the Asheville Coders League Day of Code challenge.  
+- **[Swapp](https://github.com/EricGebhart/swapp/)** Clojure: A simple example to understand clojurescript and figwheel.  
+- **[Product Inventory Server](https://github.com/EricGebhart/product-inventory/)** Python & flask, A product inventory server.  A code test.
 - **[Product Inventory UI](https://github.com/EricGebhart/https://github.com/EricGebhart/prod-inv-ui/)** A clojurescript/ReFrame/React front end for a product inventory control system.
 
 ### SAS related projects, papers, etc.

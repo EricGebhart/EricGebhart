@@ -69,18 +69,18 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
 - **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** A library which combines all of the dfs libraries into one, for managing dfs datastores for cascalog in hadoop..
 
-##### The folowing are all now embodied in dfs-clj. 
-- **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.
-- **[pail-schema](https://github.com/EricGebhart/pail-schema/)** Dfs-datastores Pail infrastructure using Prismatic Schema and Fressian.
-- **[clj-pail-tap](https://github.com/EricGebhart/clj-pail-tap/)** Extension library to enable easier tapping of pails.
-- **[Pail-Fressian](https://github.com/EricGebhart/Pail-Fressian/)** Pail structure, serializer and partitioners using Fressian.
-- **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** Example of using pail-schema to validate, coerce, and write data to a pail, then query it with cascalog.
+  **The folowing are all now embodied in dfs-clj. **
+  - **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.
+  - **[pail-schema](https://github.com/EricGebhart/pail-schema/)** Dfs-datastores Pail infrastructure using Prismatic Schema and Fressian.
+  - **[clj-pail-tap](https://github.com/EricGebhart/clj-pail-tap/)** Extension library to enable easier tapping of pails.
+  - **[Pail-Fressian](https://github.com/EricGebhart/Pail-Fressian/)** Pail structure, serializer and partitioners using Fressian.
+  - **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** Example of using pail-schema to validate, coerce, and write data to a pail, then query it with cascalog.
 
-- **[clj-thrift](https://github.com/EricGebhart/clj-thrift/)** A Clojure abstraction for Thrift.
-- **[clj-pail](https://github.com/EricGebhart/clj-pail/)** A Clojure abstraction for working with Pail.
-- **[pail-thrift](https://github.com/EricGebhart/pail-thrift/)** Serialization and partitioning strategies for using Thrift with clj-pail.
-- **[pail-cascalog](https://github.com/EricGebhart/pail-thrift/)** A Clojure library for working with Pail within Cascalog.
-- **[thrift-pail-cascalog-example](https://github.com/EricGebhart/thrift-pail-cascalog-example/)** An example of using graph schema, thrift, pail and cascalog..
+  - **[clj-thrift](https://github.com/EricGebhart/clj-thrift/)** A Clojure abstraction for Thrift.
+  - **[clj-pail](https://github.com/EricGebhart/clj-pail/)** A Clojure abstraction for working with Pail.
+  - **[pail-thrift](https://github.com/EricGebhart/pail-thrift/)** Serialization and partitioning strategies for using Thrift with clj-pail.
+  - **[pail-cascalog](https://github.com/EricGebhart/pail-thrift/)** A Clojure library for working with Pail within Cascalog.
+  - **[thrift-pail-cascalog-example](https://github.com/EricGebhart/thrift-pail-cascalog-example/)** An example of using graph schema, thrift, pail and cascalog..
 
 ### Code tests and explorations
 

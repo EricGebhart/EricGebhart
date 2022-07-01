@@ -62,7 +62,6 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 - **[Word search](https://github.com/EricGebhart/word-search/)** Collect meta data and create conjugaison trees from words in wiktionary.
 - **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** A bike gear calculator for fixed gear, internal gear and deraileur gear bikes which uses Schema.
 - **[bike gear calc UI](https://github.com/EricGebhart/bgc-ui/)** The beginning of a clojurescript/ReFrame UI for the bike gear calculator.
-
 ** Libraries that I created and used within the Applications I created for Yeti Data.**
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.

@@ -11,7 +11,8 @@ builder, GUI builder, and on and on. As a contract programmer I have
 helped to build many large enterprise level applications and services
 across many domains, health care, Insurance, manufacturing, distribution,
 finance, power, telephony, publishing, geology, geography, statistics,
-marketing.
+marketing. I´ve seen many times how a good software system can change 
+real world processes and the people that carry them out.
 
 I was more than fullstack in a time when that term did not yet exist. I
 spent 17 years at SAS where I was responsible for many 100´s of 1000´s

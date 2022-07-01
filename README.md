@@ -63,7 +63,7 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
 - **[bike gear calc](https://github.com/EricGebhart/bike-gear-calc/)** A bike gear calculator for fixed gear, internal gear and deraileur gear bikes which uses Schema.
 - **[bike gear calc UI](https://github.com/EricGebhart/bgc-ui/)** The beginning of a clojurescript/ReFrame UI for the bike gear calculator.
 
-##### These are libraries that I created and used within the Applications I created for Yeti Data.
+** Libraries that I created and used within the Applications I created for Yeti Data.**
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.
 - **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
@@ -75,7 +75,6 @@ a lot of emacs lisp. Emacs is the best vi emulator anywhere.
   - **[clj-pail-tap](https://github.com/EricGebhart/clj-pail-tap/)** Extension library to enable easier tapping of pails.
   - **[Pail-Fressian](https://github.com/EricGebhart/Pail-Fressian/)** Pail structure, serializer and partitioners using Fressian.
   - **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** Example of using pail-schema to validate, coerce, and write data to a pail, then query it with cascalog.
-
   - **[clj-thrift](https://github.com/EricGebhart/clj-thrift/)** A Clojure abstraction for Thrift.
   - **[clj-pail](https://github.com/EricGebhart/clj-pail/)** A Clojure abstraction for working with Pail.
   - **[pail-thrift](https://github.com/EricGebhart/pail-thrift/)** Serialization and partitioning strategies for using Thrift with clj-pail.

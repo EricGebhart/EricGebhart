@@ -24,11 +24,11 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
 
 <br/>
 
-### The projects that might be interesting here, are 
+### Some projects that might be insightful here.
  * **[MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart)** - It uses macros extensively and is unlike any other user space in QMK.
  * **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses make extensively, and contains some utilities. 
  * **[Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
-- **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl)** - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
+- **[SPR - Simple Process Repl](https://github.com/EricGebhart/Simple-Process-REPL)** - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
 - **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [~90% complete] - SPR has been too fun.
 - **[My Xmonad](https://github.com/EricGebhart/xmonad-setup/)** window manager. A fairly extensive custom configuration/executable.
 - **[My Emacs Setup](https://github.com/EricGebhart/emacs-setup/)** - It´s home grown, so shows my way of organizing emacs.
@@ -54,9 +54,9 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
 - **[bc-extensions](https://github.com/EricGebhart/bc-extensions/)** A collection of extensions for use with the bc unix calculator.
 
 ### Python projects
-- **[SPR - Simple Process Repl](https://github.com/EricGebhart/simple-process-repl)** A simple lisp like programming language and Application framework . 
+- **[SPR - Simple Process Repl](https://github.com/EricGebhart/Simple-Process-REPL)** A simple lisp like programming language and Application framework . 
     [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
-- **[PBR - Particle Board Repl](https://github.com/EricGebhart/particle-board-repl)** The precursor to SPR. A simple lisp like programming language and Application framework for working with Particle.io boards. 
+- **[PBR - Particle Board Repl](https://github.com/EricGebhart/Particle-Board-REPL)** The precursor to SPR. A simple lisp like programming language and Application framework for working with Particle.io boards. 
 - **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure using a BNR grammar, It works but falls short of complete. It does not yet have closures or macros among other things.  
 - **[Bar QR code](https://github.com/EricGebhart/barqrcode)** A simple program to print bar and qr codes. Written one afternoon according to the desires of a client. Not my style,
 but there it is. I rewrote this in SPR, that one is nicer.
@@ -77,7 +77,7 @@ but there it is. I rewrote this in SPR, that one is nicer.
   - **[pail-schema](https://github.com/EricGebhart/pail-schema/)** Dfs-datastores Pail infrastructure using Prismatic Schema and Fressian.
   - **[clj-pail-tap](https://github.com/EricGebhart/clj-pail-tap/)** Extension library to enable easier tapping of pails.
   - **[Pail-Fressian](https://github.com/EricGebhart/Pail-Fressian/)** Pail structure, serializer and partitioners using Fressian.
-  - **[Pail-Schema-Example](https://github.com/EricGebhart/Schema-Example/)** Example of using pail-schema to validate, coerce, and write data to a pail, then query it with cascalog.
+  - **[Pail-Schema-Example](https://github.com/EricGebhart/pail-schema-example/)** Example of using pail-schema to validate, coerce, and write data to a pail, then query it with cascalog.
   - **[clj-thrift](https://github.com/EricGebhart/clj-thrift/)** A Clojure abstraction for Thrift.
   - **[clj-pail](https://github.com/EricGebhart/clj-pail/)** A Clojure abstraction for working with Pail.
   - **[pail-thrift](https://github.com/EricGebhart/pail-thrift/)** Serialization and partitioning strategies for using Thrift with clj-pail.
@@ -87,7 +87,7 @@ but there it is. I rewrote this in SPR, that one is nicer.
 ### Code tests and explorations
 
 - **[Exercism](https://exercism.org/profiles/EricGebhart)** Clojure, Haskell, scheme, python. The exercises I´ve done over the years in Exercism. 
-- **[flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher)** Clojure/Design. A design for a simple http endpoint to give recent images from flickr. This solved the enterprise´s problems with scalability, image size and quality, while allowing fall backs to simpler choices according to resource availability. 
+- **[flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher)** Clojure/Design. A design for a not so simple http endpoint to give recent images from flickr. This solved the enterprise´s problems with scalability, image size and quality, while allowing fall backs to simpler choices according to resource availability.
 - **[Suduko validator](https://github.com/EricGebhart/suduko-validator/)** Clojure: A calculator to validate a suduko board. A nicer solution to a code test I did in python. 
 - **[Poker](https://github.com/EricGebhart/poker/)** Clojure: A game of poker from the Asheville Coders League Day of Code challenge.  
 - **[Swapp](https://github.com/EricGebhart/swapp/)** Clojure: A simple example to understand clojurescript and figwheel.  
@@ -103,6 +103,6 @@ but there it is. I rewrote this in SPR, that one is nicer.
 
 ### Contributions
 - **[QMK Firmware](https://github.com/EricGebhart/qmk_firmware/)** QMK firmware for custom keyboards.
-- **[Open SCAD clj](https://github.com/EricGebhart/clj-scad/)** A clojure wrapper for Open-scad so that scad can be programmed from clojure.
+- **[Open SCAD clj](https://github.com/EricGebhart/scad-clj/)** A clojure wrapper for Open-scad so that scad can be programmed from clojure.
 - **[Golden Ratio](https://github.com/EricGebhart/golden-ratio.el)** Emacs package which automatically resizes windows in an intelligent way. 
 - **[cider](https://github.com/EricGebhart/cider)** . 

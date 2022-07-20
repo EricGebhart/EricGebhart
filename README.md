@@ -3,49 +3,90 @@
 </pre></p>
 
 
-I´ve been programming a very long time now. More than 40 years. 
-I know many languages with C being the most dominant in all of that time.
-In that time I was an entrepreneur, Unix tool master, database designer
-and admin, systems architect, framework creator, development system
-builder, GUI builder, and on and on. As a contract programmer I have 
-helped to build many large enterprise level applications and services
-across many domains, health care, Insurance, manufacturing, distribution,
-finance, power, telephony, publishing, geology, geography, statistics,
-marketing. I´ve seen many times how a good software system can change 
-real world processes and the people that carry them out.
+I´ve worked in many domains over the decades. I´ve designed and built
+many systems, most of which are proprietary. My strongest languages are
+C, python, clojure, elisp. I have done a lot of object oriented work in
+C derived languages and python. My favorite is clojure and functional
+programming which I am likely to do in any language. If you really want
+to know who I am, the best place to start is my website which is also
+my resumé should you decide to print it. 
 
-I was more than fullstack in a time when that term did not yet exist. I
-spent 17 years at SAS where I was responsible for many 100´s of 1000´s
-of lines of code. My strongest skills are Architecture and systems
-design. I´m good at the big picture. I´ve done all sorts of databases,
-sql, no sql, object oriented programming and functional programming.
+I´ve been an Arch linux, Xmonad user/programmer for many years and I´ve written
+a lot of Emacs lisp.
 
-I´ve taught programming in various languages including my own. I am
-an accomplished public speaker. The last decade I have been programming
-in functional languages like Clojure which I love, and Haskell, mostly
-for my Xmonad configuration. Recently I wrote the SPR language on top of
-python as an answer to a problem I was solving for a client. I let the
-language evolve naturally, only adding to it as necessary, and only if the
-addition was simple. The end result is a quite nice self documenting 
-functional language with less syntax than lisp which leverages
-python libraries directly and simply. I´ve written a fair amount of lisp,
-and lisp languages which I find fascinating to create. Clojure and it´s
-spin offs are by far my favorite.
 
-I´ve been an Arch linux, Xmonad user for many years and I´ve written a lot of emacs lisp. Emacs is the best vi emulator anywhere.
+#### Natural Languages
+I am very interested in learning natural languages. I developed my
+own pedagogy in order to learn french, and I am now working to refine 
+and automate that process in order to learn others.
+I´ve done some plugins for Anki in the past. I also write, so my 
+emacs is setup with a variety of tools to enable that, input methods, 
+language-tool, dictionaries, synonyms, etc.  My QMK keyboard firmware also 
+supports multiple languages.
 
-Note: My activity in 2021 was quite low because I had very poor vision for most of the year from cataracts which have now been corrected.
+
+#### My old book - ODS Markup: Tagsets by Example.
+If you are a user of SAS ODS and Tagsets, you may be interested in the
+book I wrote many years ago on my Tagset language. It was slated to be
+published by SAS Press but never was. So I give it here for free.
+Installing LateX and compiling it to pdf is on my todo list.
+
+
+#### Code tests
+You might notice I have a few code tests, some of these have come to
+me in interview processes. I am not a fan of code tests as part of an
+interview process, I feel they are too narrow in mindset and too full
+of unexpressed expectations which bias the results in a negative way. 
+I do enjoy a good code puzzle, or doing code to learn something.
+But that is something else altogether. Even a code puzzle is no longer
+a puzzle when in the guise of a code test.
+
+My current solution is to either refuse a code test or apply
+the minimum effort and time to the code test which gives the results
+expected. It is throw away code anyway. It is the discussion which
+is important, not the code. The code test is, in my mind, a waste of my time.
+
+I have a ton of experience, I know where the parenthesis go, I have a 
+working programming environment for many languages and I can read. 
+If you need help I can give it.
+
+I generally code using a combination of TDD (Test Driven Development) and 
+RDD (REPL Driven Development) in the languages that support that.
 
 <br/>
 
 ### Some projects that might be insightful here.
-- **[MyQMK](https://github.com/EricGebhart/MyQMK/tree/Main/users/ericgebhart)** - It uses macros extensively and is unlike any other user space in QMK. The readme is verbose.
-- **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses _Make_ to create a nice installation process. 
+
+_Note: My activity in 2021 was quite low because I had very poor vision for most of the year from cataracts which have now been corrected._
+
+Of the work I´ve done, here are my favorite projects, which may show some of my skills.
+My Arch linux is setup stable and only requires maintenance as packages come and go.
+It is interesting because it uses a combination of _Make_, _Arch Packages_, _github_ and 
+the Arch AUR via Yay to do it´s job.
+
+Every so often I go through an update of my system, Arch, emacs and xmonad setups to 
+drop old ways and adopt new ones.
+
+My current favorite projects over all others are _SPR_, _Plysp_,
+_Word-Search_, _Bike-Gear-Calculator_, and *QMK_firmware*/_MyQMK_.
+My _QMK_, _Xmonad_ and _Emacs_ setups are always getting tweaks. I have
+not been doing 3D work lately, but when I do, I use _scad-clj_.
+
+My _dfs-clj/DFS datastore library_ does make it very easy to create
+immutable, partitioned/sliced no sql databases with hadoop, which can be
+quite fun to play with. Ironically I feel that Cascalog integrates with
+Clojure much more nicely than Datomic´s datalog which I find verbose
+and ugly. The pail-manager needs a redesign, but dfs-clj has worked
+admirably with a variety of big data sources over extended periods.
+
+<br/>
+
+- **[Arch linux packages](https://github.com/EricGebhart/arch-pkgs/)** - This uses _Make_ to create nice repeatable installation of packages. 
 - **[Arch linux install](https://github.com/EricGebhart/Arch-Setup/)** My Arch linux installation script. 
-- **[SPR - Simple Process Repl](https://github.com/EricGebhart/Simple_Process_REPL)** - A very cool language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
+- **[SPR - Simple Process Repl](https://github.com/EricGebhart/Simple_Process_REPL)** - A very cool stackless, auto-binding, self-documenting language at this point. [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
 - **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure. [~90% complete] - SPR has been too fun.
 - **[My Xmonad](https://github.com/EricGebhart/xmonad-setup/)** window manager. A fairly extensive custom configuration/executable.
-- **[My Emacs Setup](https://github.com/EricGebhart/emacs-setup/)** - It´s home grown, so shows my way of organizing emacs.
+- **[My Emacs Setup](https://github.com/EricGebhart/emacs-setup/)** - It´s home grown since 1995, so this shows my way of organizing emacs.
 - **[scad-clj](https://github.com/EricGebhart/scad-clj/)** Coding Open SCAD with clojure, I contributed significantly in it´s beginnings.
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A Clojure datetime library for normalizing dates.
@@ -75,9 +116,10 @@ Note: My activity in 2021 was quite low because I had very poor vision for most 
 - **[SPR - Simple Process Repl](https://github.com/EricGebhart/Simple_Process_REPL)** A simple lisp like programming language and Application framework . 
     [SPR Wiki](https://github.com/EricGebhart/Simple_Process_REPL/wiki)
 - **[PBR - Particle Board Repl](https://github.com/EricGebhart/Particle_Board_REPL)** The precursor to SPR. A simple lisp like programming language and Application framework for working with Particle.io boards. 
-- **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure using a BNR grammar, It works but falls short of complete. It does not yet have closures or macros among other things.  
+- **[Plysp](https://github.com/EricGebhart/plysp)** A simple lisp after clojure using a BNR grammar, It works but falls short of complete. The plan is to turn the core into Cython when it is time for performance enhancement. It does not yet have tail call recursion or a complete implementation of macros among other things.  
 - **[Bar QR code](https://github.com/EricGebhart/barqrcode)** A simple program to print bar and qr codes. Written one afternoon according to the desires of a client. Not my style,
-but there it is. I rewrote this in SPR, that one is nicer.
+but there it is. 
+[I rewrote this in SPR as an example, that one is nicer.](https://github.com/EricGebhart/Simple_Process_REPL/blob/main/examples/print-codes/print_codes.spr)
 
 ### Clojure projects
 - **[Word search](https://github.com/EricGebhart/word-search/)** Collect meta data and create conjugaison trees from words in wiktionary.
@@ -87,9 +129,9 @@ but there it is. I rewrote this in SPR, that one is nicer.
 #### Libraries that I created and used within the Applications I created for Yeti Data.
 - **[clojure cli extension](https://github.com/EricGebhart/clj-cli-ext/)** A library to make the creation of command line interfaces in clojure easier and more robust.
 - **[datetime data](https://github.com/EricGebhart/datetime-data/)** A datetime library for normalizing dates.
-- **[file access](https://github.com/EricGebhart/file-access/)** A file-access library to which creates a consistent API for various types of files. 
+- **[file access](https://github.com/EricGebhart/file-access/)** A file-access library which creates a consistent API for various types of files, S3, SFTP, Github. 
 
-#### Dfs datastores, These libraries were inspired by _Nathan Marz_, his book _Big Data_ and the Lambda Architecture. Pre Clojure/Schema.
+#### Dfs datastores, These libraries were inspired by _Nathan Marz_, his book _Big Data_ and the Lambda Architecture. Pre Clojure/Schema. Uses Prismatic Schema and Fressian.
 - **[dfs-clj](https://github.com/EricGebhart/dfs-clj/)** A library which combines all of the dfs libraries into one, for managing dfs datastores with cascalog on hadoop.
   **The following libraries are all embodied in dfs-clj.**
   - **[pail-graph](https://github.com/EricGebhart/pail-graph/)** Extension library to streamline the use of Graph Schema thrift objects with Pail and Cascalog.
@@ -107,7 +149,7 @@ but there it is. I rewrote this in SPR, that one is nicer.
 
 - **[Exercism](https://exercism.org/profiles/EricGebhart)** Clojure, Haskell, scheme, python. The exercises I´ve done over the years in Exercism. 
 - **[flickr-fetcher](https://github.com/EricGebhart/flickr-fetcher)** Clojure/Design. A design for a not so simple http endpoint to give recent images from flickr. This solved the enterprise´s problems with scalability, image size and quality, while allowing
-compromises, and staging of the implementation according to resource availability.
+compromises and staging of the implementation according to resource availability.
 - **[Suduku validator](https://github.com/EricGebhart/sudoku-validator)** Clojure: A calculator to validate a suduku board. A nicer solution to a code test I did in python. 
 - **[Poker](https://github.com/EricGebhart/poker/)** Clojure: A game of poker from the Asheville Coders League Day of Code challenge.  
 - **[Swapp](https://github.com/EricGebhart/swapp/)** Clojure: A simple example to understand clojurescript and figwheel.  
@@ -120,7 +162,7 @@ compromises, and staging of the implementation according to resource availabilit
 - **[SAS-Papers](https://github.com/EricGebhart/SAS-Papers)** The various papers I wrote and presented during my time at SAS. 
 - **[SAS-Examples](https://github.com/EricGebhart/SAS-Examples)** The Example code to go with all of the papers. 
 - **[SAS-Tagsets](https://github.com/EricGebhart/SAS-Tagsets)** The Source for all the official ODS Markup Tagsets as of 2013. 
-- **[SAS-Vim](https://github.com/EricGebhart/SAS-Vim/)** Vim extensions for programming with Vim. - As an emacs/evil user I do not use this, but many people do apparently. 
+- **[SAS-Vim](https://github.com/EricGebhart/SAS-Vim/)** Vim extensions for programming with Vim. - As an emacs/evil user I do not use this, apparently many people do. 
 
 ### Contributions
 - **[QMK Firmware](https://github.com/EricGebhart/qmk_firmware/)** QMK firmware for custom keyboards.

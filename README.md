@@ -34,21 +34,16 @@ Installing LateX and compiling it to pdf is on my todo list.
 
 #### Code tests
 You might notice I have a few code tests, some of these have come to
-me in interview processes. I am not a fan of code tests as part of an
-interview process, I feel they are too narrow in mindset and too full
-of unexpressed expectations which bias the results in a negative way. 
-I do enjoy a good code puzzle, or doing code to learn something.
-But that is something else altogether. Even a code puzzle is no longer
-a puzzle when in the guise of a code test.
+me in interview processes. 
 
-My current solution is to either refuse a code test or apply
-the minimum effort and time to the code test which gives the results
-expected. It is throw away code anyway. It is the discussion which
-is important, not the code. The code test is, in my mind, a waste of my time.
+My current solution to code tests is to refuse code tests completely,
+or charge for my time in doing them. It is best to just refuse.
 
-I have a ton of experience, I know where the parenthesis go, I have a 
-working programming environment for many languages and I can read. 
-If you need help I can give it.
+I have interviewed many developer candidates for many programming languages
+in my career. I am not a fan of code tests as part of an interview process, 
+I feel they are too narrow in mindset, are generally poorly written and they 
+come fully loaded with unexpressed expectations which bias the results in a 
+negative way.
 
 I generally code using a combination of TDD (Test Driven Development) and 
 RDD (REPL Driven Development) in the languages that support that.

@@ -9,7 +9,7 @@ him. I leave his historic projects here for their value and history both
 in themselves and as a reflection of who Eric was.
 
 - I have moved to gitlab in order to no longer support github. You
-may find me at [My gitlabh](https://gitlab.com/EricaLina).
+may find me at [My gitlab    eee](https://gitlab.com/EricaLina).
 
 - This github account is no longer actively used. I leave it here as 
 a stake in time which still has valueable resources and history.

@@ -2,53 +2,57 @@
 <strong>Eric Gebhart /</strong> <a href="https://www.ericgebhart.com">Homepage</a> / <a href="https://tangobreath.com">Tango Home page</a> / <a href="https://github.com/ericgebhart">GitHub</a> / <a href="https://exercism.org/profiles/EricGebhart">Exercism</a> / <a href="https://short-edition.com/fr/auteur/ericag">Short Edition</a>
 </pre></p>
 
+A few things. 
 
-I´ve worked in many domains over the decades. I´ve designed and built
-many systems, most of which are proprietary. My strongest languages are
-C, python, clojure, elisp. I have done a lot of object oriented work in
-C derived languages and python. My favorite is clojure and functional
-programming which I am likely to do in any language. If you really want
-to know who I am, the best place to start is my website which is also
-my resumé should you decide to print it. 
+- I am no longer Eric,  I no longer identify with
+him. I leave his historic projects here for their value and history both
+in themselves and as a reflection of who Eric was.
 
-I´ve been an Arch linux, Xmonad user/programmer for many years and I´ve written
+- I have moved to gitlab in order to no longer support github. You
+may find me at [My gitlabh](https://gitlab.com/EricaLina).
+
+- This github account is no longer actively used. I leave it here as 
+a stake in time which still has valueable resources and history.
+A few of these projects continue on at the above link.
+
+<hr/>
+
+Eric worked in many domains over the decades. He designed and built
+many systems, most of which were/are proprietary. His strongest languages were
+C, python, clojure, elisp and Unix tools. He did a lot of object oriented work in
+C derived languages and python. His favorite language was clojure and functional
+programming which he was likely to do in any language. 
+
+He was been an Arch linux, Xmonad user/programmer for many years and he's written
 a lot of Emacs lisp.
+<hr/>
+
+#### Clojure
+
+Eric wrote a lot of proprietary clojure code. Some his libraries for data processing with Hadoop
+and cascalog are available here publicly.
 
 
 #### Natural Languages
-I am very interested in learning natural languages. I developed my
-own pedagogy in order to learn french, and I am now working to refine 
-and automate that process in order to learn others.
-I´ve done some plugins for Anki in the past. I also write, so my 
+He was very interested in learning natural languages. He developed my
+own pedagogy in order to learn french, and continued with Roumanian, Italian and Spanish.
+He's done some plugins for Anki in the past. I also write, so his 
 emacs is setup with a variety of tools to enable that, input methods, 
-language-tool, dictionaries, synonyms, etc.  My QMK keyboard firmware also 
-supports multiple languages.
+language-tool, dictionaries, synonyms, etc.  His QMK keyboard firmware also 
+supports multiple languages.  It is however, out of date at this point.
 
 
-#### My old book - ODS Markup: Tagsets by Example.
+#### His old book - ODS Markup: Tagsets by Example.
 If you are a user of SAS ODS and Tagsets, you may be interested in the
-book I wrote many years ago on my Tagset language. It was slated to be
-published by SAS Press but never was. So I give it here for free.
-Installing LateX and compiling it to pdf is on my todo list.
+book he wrote many years ago on his Tagset language. It was slated to be
+published by SAS Press but never was. So he gives it here for free.
+Installing LateX and compiling it to pdf is a to do.
 
 
 #### Code tests
-You might notice I have a few code tests, some of these have come to
-me in interview processes. 
-
-My current solution to code tests is to refuse code tests completely,
-or charge for my time in doing them. It is best to just refuse.
-
-I have interviewed many developer candidates for many programming languages
-in my career. I am not a fan of code tests as part of an interview process, 
-I feel they are too narrow in mindset, are generally poorly written and they 
-come fully loaded with unexpressed expectations which bias the results in a 
-negative way.
-
-I generally code using a combination of TDD (Test Driven Development) and 
-RDD (REPL Driven Development) in the languages that support that.
-
-<br/>
+You might notice he has a few code tests, some of these have come from interview processess.
+He didn't believe in code tests as an adequate method of ascertaining abalities.
+<br/
 
 ### Some projects that might be insightful here.
 

@@ -1,15 +1,15 @@
-q<p><pre align="center">
+<p><pre align="center">
 <strong>Erica Lina /</strong> <a href="https://ericgebhart.github.io">Homepage</a> / <a href="https://tangobreath.github.io">Tango Home page</a> / <a href="https://github.com/ericgebhart">GitHub</a> / <a href="https://exercism.org/profiles/EricGebhart">Exercism</a> / <a href="https://short-edition.com/fr/auteur/ericag">Short Edition</a>
 </pre></p>
 
 A few things. 
 
-- I am no longer Eric,  I no longer identify with
-him. I leave his historic projects here for their value and history both
+- I am no longer Eric, I no longer identify with him.
+I leave his historic projects here for their value and history both
 in themselves and as a reflection of who Eric was.
 
 - I have moved to gitlab in order to no longer support github. You
-may find me at [My gitlab](https://gitlab.com/EricaLina).
+may find me and my continuing efforts at [My gitlab](https://gitlab.com/EricaLina).
 
 - This github account is no longer actively used. I leave it here as 
 a stake in time which still has valueable resources and history.
@@ -20,11 +20,12 @@ A few of these projects continue on at the above gitlab link.
 Eric worked in many domains over the decades. He designed and built
 many systems, most of which were/are proprietary. He loved creating beautiful code.
 His strongest languages were C, python, clojure, elisp and Unix tools. He did a lot of object oriented work in
-C derived languages and python. His favorite language was clojure and functional
+C derived languages and python. He wrote a few languages and frameworks.
+His favorite language was clojure and functional
 programming which he was likely to do in any language.
 
-He was been an Arch linux, Xmonad user/programmer for many years and he's written
-a lot of Emacs lisp.
+He was an Arch linux, Xmonad user/programmer for many years and he wrote
+a lot of Emacs lisp. 
 <hr/>
 
 #### Clojure
@@ -35,8 +36,8 @@ and cascalog are available here publicly.
 #### Natural Languages
 He was very interested in learning natural languages. He developed my
 own pedagogy in order to learn french, and continued with Roumanian, Italian and Spanish.
-He's done some plugins for Anki in the past. I also write, so his 
-emacs is setup with a variety of tools to enable that, input methods, 
+He's done some plugins for Anki in the past. He was a writer, so his 
+emacs was setup with a variety of tools to enable that, input methods, 
 language-tool, dictionaries, synonyms, etc.  His QMK keyboard firmware also 
 supports multiple languages.  It is, however, out of date at this point.
 Go find Erica on gitlab.

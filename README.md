@@ -1,5 +1,5 @@
-<p><pre align="center">
-<strong>Eric Gebhart /</strong> <a href="https://www.ericgebhart.com">Homepage</a> / <a href="https://tangobreath.com">Tango Home page</a> / <a href="https://github.com/ericgebhart">GitHub</a> / <a href="https://exercism.org/profiles/EricGebhart">Exercism</a> / <a href="https://short-edition.com/fr/auteur/ericag">Short Edition</a>
+q<p><pre align="center">
+<strong>Erica Lina /</strong> <a href="https://ericgebhart.github.io">Homepage</a> / <a href="https://tangobreath.github.io">Tango Home page</a> / <a href="https://github.com/ericgebhart">GitHub</a> / <a href="https://exercism.org/profiles/EricGebhart">Exercism</a> / <a href="https://short-edition.com/fr/auteur/ericag">Short Edition</a>
 </pre></p>
 
 A few things. 
@@ -13,15 +13,15 @@ may find me at [My gitlab](https://gitlab.com/EricaLina).
 
 - This github account is no longer actively used. I leave it here as 
 a stake in time which still has valueable resources and history.
-A few of these projects continue on at the above link.
+A few of these projects continue on at the above gitlab link.
 
 <hr/>
 
 Eric worked in many domains over the decades. He designed and built
-many systems, most of which were/are proprietary. His strongest languages were
-C, python, clojure, elisp and Unix tools. He did a lot of object oriented work in
+many systems, most of which were/are proprietary. He loved creating beautiful code.
+His strongest languages were C, python, clojure, elisp and Unix tools. He did a lot of object oriented work in
 C derived languages and python. His favorite language was clojure and functional
-programming which he was likely to do in any language. 
+programming which he was likely to do in any language.
 
 He was been an Arch linux, Xmonad user/programmer for many years and he's written
 a lot of Emacs lisp.
@@ -32,50 +32,42 @@ a lot of Emacs lisp.
 Eric wrote a lot of proprietary clojure code. Some his libraries for data processing with Hadoop
 and cascalog are available here publicly.
 
-
 #### Natural Languages
 He was very interested in learning natural languages. He developed my
 own pedagogy in order to learn french, and continued with Roumanian, Italian and Spanish.
 He's done some plugins for Anki in the past. I also write, so his 
 emacs is setup with a variety of tools to enable that, input methods, 
 language-tool, dictionaries, synonyms, etc.  His QMK keyboard firmware also 
-supports multiple languages.  It is however, out of date at this point.
-
+supports multiple languages.  It is, however, out of date at this point.
+Go find Erica on gitlab.
 
 #### His old book - ODS Markup: Tagsets by Example.
+
 If you are a user of SAS ODS and Tagsets, you may be interested in the
 book he wrote many years ago on his Tagset language. It was slated to be
 published by SAS Press but never was. So he gives it here for free.
 Installing LateX and compiling it to pdf is a to do.
 
+**[ODS Markup: Tagsets by Example](https://github.com/EricGebhart/Tagsets-by-example)**
 
 #### Code tests
 You might notice he has a few code tests, some of these have come from interview processess.
-He didn't believe in code tests as an adequate method of ascertaining abalities.
+He didn't believe in code tests as an adequate method of ascertaining abilities.
 <br/
 
-### Some projects that might be insightful here.
+### Some Favorite projects.
 
-_Note: My activity in 2021 was quite low because I had very poor vision for most of the year from cataracts which have now been corrected._
-
-Of the work I´ve done, here are my favorite projects, which may show some of my skills.
-My Arch linux is setup stable and only requires maintenance as packages come and go.
-It is interesting because it uses a combination of _Make_, _Arch Packages_, _github_ and 
-the Arch AUR via Yay to do it´s job.
-
-Every so often I go through an update of my system, Arch, emacs and xmonad setups to 
-drop old ways and adopt new ones.
-
-My current favorite projects over all others are _SPR_, _Plysp_,
+Aside from the very mundane setup and configuration repos,
+Eric's favorite projects over all others are _SPR_, _Plysp_,
 _Word-Search_, _Bike-Gear-Calculator_, and *QMK_firmware*/_MyQMK_.
-My _QMK_, _Xmonad_ and _Emacs_ setups are always getting tweaks. I have
-not been doing 3D work lately, but when I do, I use _scad-clj_.
+My _QMK_, _Xmonad_ and _Emacs_ setups are always getting tweaks.
+He always used _scad-clj_ for 3D work.
 
-My _dfs-clj/DFS datastore library_ does make it very easy to create
+His _dfs-clj/DFS datastore library_ does make it very easy to create
 immutable, partitioned/sliced no sql databases with hadoop, which can be
-quite fun to play with. Ironically I feel that Cascalog integrates with
-Clojure much more nicely than Datomic´s datalog which I find verbose
-and ugly. The pail-manager needs a redesign, but dfs-clj has worked
+quite fun to play with. Ironically,  it seems that Cascalog integrates with
+Clojure much more nicely than Datomic´s datalog which is verbose
+and ugly. It needs an update but dfs-clj has worked
 admirably with a variety of big data sources over extended periods.
 
 <br/>

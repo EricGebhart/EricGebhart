@@ -9,7 +9,7 @@ I leave his historic projects here for their value and history both
 in themselves and as a reflection of who Eric was.
 
 - I have moved to gitlab in order to no longer support github. You
-may find me and my continuing efforts at [My gitlab](https://gitlab.com/EricaLina).
+may find me and my continuing efforts at [My Gitlab](https://gitlab.com/ericalina).
 
 - This github account is no longer actively used. I leave it here as 
 a stake in time which still has valueable resources and history.
@@ -17,10 +17,33 @@ A few of these projects continue on at the above gitlab link.
 
 <hr/>
 
-Eric worked in many domains over the decades. He designed and built
+Hello, I'm Erica, 
+my being and place in the world is very different from what
+Eric's was. I consequently see differently and am a different person.
+
+I write as if he is passed, 
+because he has, 
+he can no longer be, 
+except as my experience, a memory,
+
+if I am to be.
+
+I could not be him.
+
+
+You can find me in the present at [My Gitlab](https://gitlab.com/ericalina).
+
+He wrote this, I changed the tense.
+
+Have a beautiful day
+Erica
+
+
+Eric worked in many domains using many languages over the decades. He designed and built
 many systems, most of which were/are proprietary. He loved creating beautiful code.
 His strongest languages were C, python, clojure, elisp and Unix tools. He did a lot of object oriented work in
-C derived languages and python. He wrote a few languages and frameworks.
+C derived languages and python. He wrote a few languages and frameworks. He created 
+a few publishing systems, using troff, LaTeX and many other markup languages.
 His favorite language was clojure and functional
 programming which he was likely to do in any language.
 
@@ -34,7 +57,7 @@ Eric wrote a lot of proprietary clojure code. Some his libraries for data proces
 and cascalog are available here publicly.
 
 #### Natural Languages
-He was very interested in learning natural languages. He developed my
+He was very interested in learning natural languages. He developed his
 own pedagogy in order to learn french, and continued with Roumanian, Italian and Spanish.
 He's done some plugins for Anki in the past. He was a writer, so his 
 emacs was setup with a variety of tools to enable that, input methods, 

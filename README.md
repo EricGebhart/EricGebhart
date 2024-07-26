@@ -28,7 +28,7 @@ because he has,
 he can no longer be, 
 except as my experience, a memory,
 
-if I am to be.
+if I am to be,
 
 I could not be him.
     </pre>
@@ -36,7 +36,7 @@ I could not be him.
 
 You can find me in the present at [My Gitlab](https://gitlab.com/ericalina).
 
-He wrote the following, I changed the tense.
+Eric wrote the following, I changed the tense.
 
 Have a beautiful day
 Erica

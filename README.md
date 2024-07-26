@@ -21,6 +21,7 @@ Hello, I'm Erica,
 my being and place in the world is very different from what
 Eric's was. I consequently see differently and am a different person.
 
+<pre>
 I write as if he is passed, 
 because he has, 
 he can no longer be, 
@@ -29,7 +30,7 @@ except as my experience, a memory,
 if I am to be.
 
 I could not be him.
-
+</pre>
 
 You can find me in the present at [My Gitlab](https://gitlab.com/ericalina).
 
